@@ -1,8 +1,13 @@
 ## Hi there 👋🧿, Welcome!
+
+![banner](https://github.com/user-attachments/assets/fb7d5961-040b-4d8c-ae2a-adfa45b40dd6)
+
+
+
 Hello 👋, I am Aarogya. Currently, I am pursuing a bachelor degree in Computer Science and Engineering 🎓 from Tribhuwan University, Nepal.
 I am always passionate for coding as well as UI/UX design, Currently learing python 🐉
 I love to participate in Competitive programming.
-![web](https://github.com/user-attachments/assets/2a1fafb0-052e-4c9b-af66-f9906bc0c480)
+
 
 - 🔭 I’m currently working on Web-Development Projects, Arduino Projects.
 - 🌱 I’m currently learning Python 🎯
