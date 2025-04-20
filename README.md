@@ -18,7 +18,7 @@ I love to participate in Competitive programming.
 
 
 ## 🌐 Socials:
-[![Instagram](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aarogyaparajuli.com.np)[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aarogya_prj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aarogyaparajuli) [![email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarogyaparajuli07@gmail.com) 
+[![Website](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aarogyaparajuli.com.np)[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aarogya_prj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarogyaparajuli) [![email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarogyaparajuli07@gmail.com) 
 
 &nbsp;
 
