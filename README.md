@@ -10,9 +10,9 @@ I am always passionate for coding as well as UI/UX design, Currently learing pyt
 I love to participate in Competitive programming.
 
 
-- 🔭 I’m currently working on Web-Development Projects, Arduino Projects.
-- 🌱 I’m currently learning Python 🎯
-- - 💬 Ask me about Web Development, Arduino Coding, UI/UX design
+- 🔭 I’m currently working on building scalable backend systems.
+- 🌱 I’m currently exploring data and AI. 🎯
+- - 💬 Ask me about Full-Stack Development, Arduino Coding, UI/UX design
 - - 📫 How to reach me: aarogya_prj (Instagram)
 - - ⚡ Fun fact: Always craving for Coding Stuffs </>.
 
