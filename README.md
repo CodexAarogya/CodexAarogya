@@ -1,7 +1,7 @@
 ## Hi there 👋🧿, Welcome! 
 [![](https://visitcount.itsvg.in/api?id=CodexAarogya&icon=5&color=12)](https://visitcount.itsvg.in)
 
-![banner](https://github.com/user-attachments/assets/fb7d5961-040b-4d8c-ae2a-adfa45b40dd6)
+![banner](assets/profile-banner.png)
 
 
 
