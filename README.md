@@ -11,8 +11,6 @@
   <img src="assets/profile-banner.png" alt="Aarogya Parajuli – Code, build, ship" width="100%" />
 </p>
 
-<h3 align="center">Data Scientist in the making · Data Engineer by ambition · Full-Stack Developer by craft</h3>
-
 <p align="center">
   <a href="https://aarogyaparajuli.com.np"><img src="https://img.shields.io/badge/Website-5B5BF0?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/aarogyaparajuli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
