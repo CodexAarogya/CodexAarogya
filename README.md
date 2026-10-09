@@ -41,7 +41,7 @@ I turn raw data into reliable pipelines, models and products people can actually
 | Focus | What it looks like in practice |
 |---|---|
 | **📊 Data Science** | Classical ML, statistical modeling, feature engineering, exploratory analysis, computer vision and NLP |
-| **🏗️ Data Engineering** | ETL/ELT pipelines, workflow orchestration, dimensional modeling (star schema), warehousing, streaming |
+| **🏗️ Data Engineering** | ETL/ELT pipelines, workflow orchestration, dimensional modeling, warehousing, streaming |
 | **🧩 Full-Stack Development** | REST APIs with Django and FastAPI, React front ends, async task queues, containerised deployment |
 | **🎨 UI/UX Design** | Wireframes, prototypes and clean interfaces designed in Figma, built to be usable first |
 | **🔌 Embedded & IoT** | Prototyping with Arduino, Raspberry Pi and ESP32 for sensing, automation and edge ideas |
