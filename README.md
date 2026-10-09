@@ -132,8 +132,6 @@ I turn raw data into reliable pipelines, models and products people can actually
   <a href="https://linkedin.com/in/aarogyaparajuli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center"><i>Code, build, ship 🚀</i></p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5B5BF0&height=170&section=footer&text=Let's%20Connect&fontColor=EEF0FF&fontSize=34&fontAlignY=68" width="100%" alt="Let's Connect" />
 
 
